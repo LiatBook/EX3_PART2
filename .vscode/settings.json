@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "rudp_api.h": "c",
+        "inet.h": "c",
+        "socket.h": "c"
+    }
+}
